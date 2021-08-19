@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbZwxrkLATVZ638ivkB5tknSfppJZ5WSFhpcRP8anIpDX+dSnyq/8pm+aIo4tbcDUHYCIrH263mKHuaRIHetGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caleb\\source\\repos\\AvalApplication\\AvalApplication\\AvalApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caleb\\.nuget\\packages\\bootbox.js\\5.5.2\\bootbox.js.5.5.2.nupkg.sha512",
+    "C:\\Users\\caleb\\.nuget\\packages\\jquery\\1.12.4\\jquery.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}
